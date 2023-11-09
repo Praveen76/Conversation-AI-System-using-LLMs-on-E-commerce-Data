@@ -5,11 +5,7 @@ We'll use amazon's data for our project. You can either download data directly f
 
 ![ConvAI using LLMs ](https://github.com/Praveen76/Recommender-System-and-ConvAI-using-LLMs-on-e-commerce-Data/blob/main/Conversational%20AI.webp)
 
-The idea of the project is to build a Recommender System, and implement a Conversation AI for different tasks ( explained below).
-
-# Recommender System using cosine and jaccard similarity:
-  * Product Clustering: We'll use product_id, Discounted_Price, Subcategory, rating to find products similarity.
-  * User clustering: Calculate users similarity using jaccard similarity with input features such as user_id, product_id, Subcategory, rating.
+The idea of the project is to implement a Conversation AI for different tasks ( explained below).
 
 # Conversational AI using LLMs:
 
