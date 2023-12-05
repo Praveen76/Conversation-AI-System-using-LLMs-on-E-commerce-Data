@@ -1,13 +1,13 @@
 # Recommender-System-and-ConvAI-using-LLMs-on-e-commerce-Data
 
-# **Project Summary:**
+## **Project Summary:**
 We'll use amazon's data for our project. You can either download data directly from [Kaggle](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset), or  you can donwload using Kaggle's API.
 
 ![ConvAI using LLMs ](https://github.com/Praveen76/Recommender-System-and-ConvAI-using-LLMs-on-e-commerce-Data/blob/main/Conversational%20AI.webp)
 
 The idea of the project is to implement a Conversation AI for different tasks ( explained below).
 
-# Conversational AI using LLMs:
+## Conversational AI using LLMs:
 
   * Sentiment Analysis: We'll do sentiment analysis using BERT Model.
   * Generate Questions: We'll generate 4 questions per record that users could potentially ask to Virtual Assistant.
@@ -15,7 +15,7 @@ The idea of the project is to implement a Conversation AI for different tasks ( 
   * Summarize Product Description: We'll use t5-small model from Google to summarize product using product description  to users.
 
 
-# Instructions for Installation
+## Instructions for Installation
 
 **Dependencies:**
 You'll need to install below dependencies to run this project.
@@ -32,8 +32,9 @@ You'll need to install below dependencies to run this project.
 * torch: 1.13.1+cpu
 
 
-# License:
-This project is open-source and distributed under the MIT License. Feel free to use and modify the code as needed.
+## License
+
+This repository and its contents are open-sourced under the [MIT License](LICENSE). Feel free to use, modify, and distribute these projects in accordance with the terms specified in the license.
 
 # Issues:
 If you encounter any issues or have suggestions for improvement, please open an issue in the Issues section of this repository.
@@ -41,5 +42,7 @@ If you encounter any issues or have suggestions for improvement, please open an 
 # Contact:
 The code has been tested on Windows system. It should work well on other distributions but has not yet been tested. In case of any issue with installation or otherwise, please contact me on [Linkedin](https://www.linkedin.com/in/praveen-kumar-anwla-49169266/)
 
-# **About Me:**
-I’ve been working as a Data Scientist for a very long time now. I've worked on various NLP, Machine learning & cutting edge deep learning frameworks to solve business problems. Please feel free to check out my personal wesbsite [TowardsMachineLearning.Org](https://towardsmachinelearning.org/) , where I cover an array of topics from Machine learning, NLP, Deep Learning, etc.
+Happy coding!!
+
+## **About Me**:
+I’m a seasoned Data Scientist and founder of [TowardsMachineLearning.Org](https://towardsmachinelearning.org/). I've worked on various Machine Learning, NLP, and cutting-edge deep learning frameworks to solve numerous business problems.
