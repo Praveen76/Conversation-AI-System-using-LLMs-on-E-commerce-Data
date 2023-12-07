@@ -36,10 +36,17 @@ You'll need to install below dependencies to run this project.
 
 This repository and its contents are open-sourced under the [MIT License](LICENSE). Feel free to use, modify, and distribute these projects in accordance with the terms specified in the license.
 
-# Issues:
+## Issues:
 If you encounter any issues or have suggestions for improvement, please open an issue in the Issues section of this repository.
 
-# Contact:
+## Contributing
+
+If you have a Data Science mini-project that you'd like to share, please follow the guidelines in [CONTRIBUTING.md](https://github.com/Praveen76/Data-Science-Mini-Projects/blob/main/contributing.md).
+
+## Code of Conduct
+Please adhere to our [Code of Conduct](https://github.com/Praveen76/Data-Science-Mini-Projects/blob/main/CODE_OF_CONDUCT.md) in all your interactions with the project.
+
+## Contact:
 The code has been tested on Windows system. It should work well on other distributions but has not yet been tested. In case of any issue with installation or otherwise, please contact me on [Linkedin](https://www.linkedin.com/in/praveen-kumar-anwla-49169266/)
 
 Happy coding!!
